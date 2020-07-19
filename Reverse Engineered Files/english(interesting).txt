@@ -1,0 +1,26 @@
+Offset 0xb4073, 0xb4103, 0xb3fbb, 0xb4167 all said by fiona
+ - Seems like some lines for a tutorial level
+DATA: We'd better test out your weapons before you get into the thick of it.
+DATA: See if you can hit that abandoned car with the M4.
+DATA: Let's try out your grenades.
+DATA: OK, everything looks good. It's time to get going.
+
+- Said by Fiona
+OFFSET: 0xb468f
+INFO: 10181fio
+DATA: Get out of there before it explodes!
+
+- Said by Fiona
+OFFSET: 0xb4c4f
+INFO: 10188fio
+DATA: Better fire off a couple of rounds.  Make sure that gun s working properly.
+
+
+- Maybe a line when you completed the first mission (Said by Col. Garret)
+OFFSET: 0xb6beb
+INFO: 10240GAR
+DATA: Listen, why don't you stay here for the night?  We got a plush cot all laid out for you.  Lord knows, you've earned yourself a good night of sleep.
+
+OFFSET: 0xb6d3b
+INFO: 10241GAR
+DATA: Morning, Soldier!  Thanks again for the help last night.  Without you, I don't know if we'd even be having this conversation.
