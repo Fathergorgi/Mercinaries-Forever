@@ -1,0 +1,62 @@
+*typedelay 0.75
+*typerand  0.15
+
+*script start
+*prompt td@prokat>
+*linedelay 0.1
+*cmddelay 0.75
+
+
+td@prokat> tracknet --feedseek=4
+connecting...*progbar 5.0
+connecting to sat feed *r1|10
+
+tracking.*dotdelay 3.0
+connected to satelite *r3|27
+
+*end
+
+*script mainshell
+*prompt=td@prokat>
+*linedelay=0.01
+td@prokat>mddelay=0.05
+
+td@prokat> streamseek
+*delay 1.0
+
+*end
+
+*script transToCharselect
+*prompt=td@procat>
+*linedelay=0.01
+*cmddelay=0.05
+
+td@prokat> yo mama!
+yo: Command not found.
+
+*end
+
+*script charselect
+*prompt=unitServ#>
+*linedelay=0.01
+#cmddelay=0.05
+
+td@prokat>*delay 1.0 satmonitor
+*delay 0.5
+prokat satmonitor v7.0
+.*dotdelay 3 summary mode active
+got sat signature *r1|10
+
+report code *r1|10.*r1|10
+
+synching*dotdelay 3.0
+*spamblock 50
+still synching*dotdelay 3.0
+oh, that synching feeling*dotdelay 3.0
+rats deserting a synching ship*dotdelay 3.0
+
+a9uq02yt0#a8901&^
+NO CARRIER
+*delay 5.0
+
+*end

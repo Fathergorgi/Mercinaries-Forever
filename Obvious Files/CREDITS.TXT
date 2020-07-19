@@ -1,0 +1,56 @@
+TEMP CREDITS
+
+Llamas
+
+Head Llama
+Cameron Brown
+
+Another Llama
+Llama
+*delay 4.0
+Another Llama
+Llama
+
+Another Llama
+Llama
+
+Another Llama
+Llama
+*delay 4.0
+Another Llama
+Llama
+
+Another Llama
+Llama
+
+Another Llama
+Llama
+*delay 4.0
+Another Llama
+Llama
+
+Another Llama
+Llama
+
+Another Llama
+Llama
+*delay 4.0
+Another Llama
+Llama
+
+Another Llama
+Llama
+
+Another Llama
+Llama
+*delay 4.0
+Another Llama
+Llama
+
+Another Llama
+Llama
+
+Another Llama
+Llama
+*delay 8.0
+*end
