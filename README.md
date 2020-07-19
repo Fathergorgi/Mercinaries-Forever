@@ -1,4 +1,4 @@
-# Mercinaries-Forever
+# Mercinaries Forever!
 A personal project on reverse engineering the game Mercinaries: Playground of Destruction for the PS2, it was offically started on July 18 2020
 
 Pull requests are ALWAYS appreciated, especially in looking through some of my reversed files and finding unused content, then adding them to the \*(interesting) file
@@ -24,4 +24,10 @@ These are some things that where just inside the game files and needed no revers
 - CREDITS.TXT
   * Some temporary placeholder credits left in there for testing purposes
 - SHELLSCR.TXT
-  * An interesting file that seems to contain some text that would show if the player went into a terminal in-gam
+  * An interesting file that seems to contain some text that would show if the player went into a terminal in-game
+- TINY.TGA
+  * Some image file
+- MOVIES/*
+  * All of the video files in the game
+- OGG/*
+  * Some unused sound files
