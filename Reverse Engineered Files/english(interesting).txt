@@ -15,6 +15,10 @@ OFFSET: 0xb4c4f
 INFO: 10188fio
 DATA: Better fire off a couple of rounds.  Make sure that gun s working properly.
 
+- Said by Nillson
+OFFSET: 0x46af
+INFO: swhpic06
+DATA: All righty, then, let's play 'follow the little yellow blip'.
 
 - Maybe a line when you completed the first mission (Said by Col. Garret)
 OFFSET: 0xb6beb
@@ -24,3 +28,30 @@ DATA: Listen, why don't you stay here for the night?  We got a plush cot all la
 OFFSET: 0xb6d3b
 INFO: 10241GAR
 DATA: Morning, Soldier!  Thanks again for the help last night.  Without you, I don't know if we'd even be having this conversation.
+
+
+OFFSET: 0x12593
+INFO: nodeposit
+DATA: Insufficient funds for deposit!
+
+
+-------------------------
+OFFSET: 0x1df9f
+INFO: primaryObjLong01
+DATA: Rogue soldiers from the DPRK have stolen a cargo truck full of goods from the Mafia, and we would like it back.
+
+
+OFFSET: 0x1e0af
+INFO: primaryObjLong02
+DATA: Please travel to the village marked on your Datapod map and retrieve our vehicle.  
+
+
+OFFSET: 0x1e187
+INFO: primaryObjLong03
+DATA: Additionally, you are to destroy three buildings linked to these thieves, each of which has also been marked on your map.
+
+
+OFFSET: 0x1e2ab
+INFO: primaryObjLong04
+DATA: Following completion of these tasks, we will credit 100,000 USD to your account.BIN_dINFO
+-------------------------
