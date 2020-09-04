@@ -1,15 +1,8 @@
 # Mercinaries Forever!
-A personal project on reverse engineering the game Mercinaries: Playground of Destruction for the PS2, it was offically started on July 18 2020
+A personal project on reverse engineering the game Mercinaries: Playground of Destruction for the PS2, and adding modding support
 
 Pull requests are ALWAYS appreciated, especially in looking through some of my reversed files and finding unused content, then adding them to the \*(interesting) file
-# My to-do list:
-- [x] Reverse-engineer the language file
-- [ ] Reverse-engineer the multiple .TEX loading screens
-- [ ] Figure out how the ASSETS.DSK file stores the assets, then extract them
-- [ ] Figure out how the sound files work
-- [ ] Reverse the actual binary itself Part 1
-- [ ] Reverse the actual binary itself Part 2
-- [ ] Reverse the actual binary itself Part 3
+
 # What I found
 ### Reversed Assets
 This is where the work got put in

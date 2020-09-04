@@ -55,3 +55,22 @@ OFFSET: 0x1e2ab
 INFO: primaryObjLong04
 DATA: Following completion of these tasks, we will credit 100,000 USD to your account.BIN_dINFO
 -------------------------
+
+INFO: 50990MAT
+DATA: What about pictures?  I just got my mohawk styled the way I like it.BIN_
+
+OFFSET: 0x1163eb
+INFO: xjou03
+DATA: Ratings'll soar when they see this footage.
+
+OFFSET: 0x1139e7
+INFO: xfio173
+DATA: Something is jamming your support.  Take it out. 
+
+
+OFFSET: 0x11314b
+INFO: xfio153
+DATA: I'll pay you $5,000 to make a snow angel.
+
+
+
