@@ -73,4 +73,15 @@ INFO: xfio153
 DATA: I'll pay you $5,000 to make a snow angel.
 
 
+OFFSET: 0xf8c83
+INFO: bty_blueprint16
+DATA: Speed HackBIN_4
 
+
+OFFSET: 0xf8cc7
+INFO: bty_blueprint17
+DATA: AimbotBIN_`
+
+OFFSET: 0xf99d7
+INFO: bty_blueprint53
+DATA: Death Star PlansBIN_T
